@@ -1,0 +1,40 @@
+.rodape {
+    background-color: #0848a8;
+    color: #FFF;
+    padding: 3em;
+    text-align: center;
+}
+
+.img {
+    max-width:400px;
+    max-height:350px;
+    width: auto;
+    height: auto;
+}
+
+.socialList{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.socialList li {
+    margin: 0 1em;
+}
+
+.socialList li:hover {
+    color: #FFBB00
+}
+.socialList li:active {
+    scale: 1.1;
+}
+
+.socialList li svg {
+    font-size: 2em;
+    cursor: pointer;
+}
+
+.copyRight{
+    margin-top: 2em;
+}
+

@@ -14,7 +14,7 @@ const Rodape = () =>{
                         <FaTwitter/>
                     </li>
                 </ul>
-                <img className="img" src='/imagens/senaiLogo.png'/> 
+                <img className="img" src='/imagens/senaiLogo.png' alt="senai"/> 
                 <p className="copyRight">Desenvolvido por Caio Bao Amandio</p>
             </footer>
     )
